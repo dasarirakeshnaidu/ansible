@@ -7,7 +7,7 @@
 
     - name: Print Hello from play1 of task2 
       ansible.builtin.debug:
-        msg: Hello from task1 of play1 
+        msg: Hello from task2 of play1 
 
 - name: Play2 
   hosts: dev    
