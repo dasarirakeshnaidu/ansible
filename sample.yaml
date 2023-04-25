@@ -1,0 +1,19 @@
+---
+# An employee record
+name: Rakesh
+job: Network Engineer
+skill: Nw security
+employed: True
+foods:
+  - Apple
+  - Orange
+  - Strawberry
+  - Mango
+languages:
+  perl: Elite
+  python: Elite
+  pascal: Lame
+education: |
+  Btech
+  Diploma
+  
